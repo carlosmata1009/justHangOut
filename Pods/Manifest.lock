@@ -1,0 +1,26 @@
+PODS:
+  - Bolts/Tasks (1.9.0)
+  - CircleButton (1.1.2)
+  - Parse (1.17.1):
+    - Parse/Core (= 1.17.1)
+  - Parse/Core (1.17.1):
+    - Bolts/Tasks (~> 1.9)
+
+DEPENDENCIES:
+  - CircleButton (~> 1.1)
+  - Parse
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bolts
+    - CircleButton
+    - Parse
+
+SPEC CHECKSUMS:
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  CircleButton: dc54183363b23913539bef43e0adb5e7c2d785ac
+  Parse: d3edaf8c7c722cb33cb83ba7821d015ae32d362d
+
+PODFILE CHECKSUM: 3be3c28d93051d0e096958aaa1e64fc8e0c7f84d
+
+COCOAPODS: 1.5.3
